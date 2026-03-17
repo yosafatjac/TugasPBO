@@ -1,3 +1,5 @@
+//Link Github: https://github.com/yosafatjac/TugasPBO/tree/main/src
+
 import java.util.Scanner;
 import java.util.Locale;
 
