@@ -1,4 +1,4 @@
-//Link Github: https://github.com/yosafatjac/TugasPBO/tree/main/src
+//Link Github: https://github.com/yosafatjac/TugasPBO/blob/main/src/SistemAnalisisNilai.java
 //105224016 - Yosafat Jacobus - SistemAnalisisNilai.java
 
 import java.util.Scanner;
