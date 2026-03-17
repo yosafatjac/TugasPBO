@@ -1,4 +1,5 @@
 //Link Github: https://github.com/yosafatjac/TugasPBO/tree/main/src
+//105224016 - Yosafat Jacobus - SistemAnalisisNilai.java
 
 import java.util.Scanner;
 import java.util.Locale;
@@ -7,7 +8,7 @@ public class SistemAnalisisNilai {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("=== SISTEM ANALISIS NILAI MAHASISWA ===\n");
+        System.out.println("=== SISTEM ANALISIS NILAI MAHASISWA ===");
         System.out.print("Masukkan jumlah mahasiswa: ");
         int jumlah = input.nextInt();
 
