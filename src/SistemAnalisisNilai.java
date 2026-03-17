@@ -1,10 +1,11 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class App {
+public class SistemAnalisisNilai {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        System.out.print("=== SISTEM ANALISIS NILAI MAHASISWA ===\n");
         System.out.print("Masukkan jumlah mahasiswa: ");
         int jumlah = input.nextInt();
 
